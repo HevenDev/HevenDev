@@ -113,10 +113,6 @@ A developer learning platform that goes beyond surface-level explanations — co
 
 ## GitHub Stats
 
-![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HevenDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HevenDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=HevenDev&theme=github-dark-blue&hide_border=true&background=0d1117)
 
 ---
