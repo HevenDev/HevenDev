@@ -86,9 +86,6 @@ A developer learning platform that goes beyond surface-level explanations — co
 **Stack:**
 - **Frontend:** Next.js · TypeScript
 - **AI Layer:** OpenAI GPT API
-- **Database:** Neon DB · Supabase
-- **Storage:** Cloudinary · AWS S3
-
 ---
 
 ## In Progress
