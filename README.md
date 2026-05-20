@@ -1,47 +1,124 @@
-# 👋 Hi, I'm Chandra Prakash
+# Chandra Prakash
 
-## 🚀 About Me
-I am a passionate **MERN Stack Developer** dedicated to continuous learning and building innovative, scalable, and optimized applications. My expertise lies in **backend development**, complemented by strong frontend skills.
+**Full Stack Developer** · I build systems that scale, ship, and survive production.
 
-## 🛠️ Tech Stack
-- **Frontend**: React.js, Redux Toolkit, Vite, GSAP (for animations)
-- **Backend**: Node.js, Express.js, Kafka (for scalable architectures)
-- **Database**: MongoDB
-- **Authentication**: JWT, bcrypt, sessions, cookies, SMS OTP verification (MSG91)
-- **State Management**: Redux, Redux Toolkit
-- **Deployment**: Render, GitHub
-- **Version Control**: Git, GitHub
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-chandra-prakash.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-prakash-b92777302/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HevenDev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HevenDev)
 
-## 💼 Projects & Experience
-### 🔹 Myntra Clone
-- Developed using **React, Redux Toolkit**, and a fully functional backend to ensure scalability.
+---
 
-### 🔹 Devzi Social Project
-- Implemented post creation, real-time data fetching, and loaders for enhanced UX.
+## What I Do
 
-### 🔹 Color Trading Platform
-- A **real-time trading application** built with MERN stack, including wallet and bet management.
+Full Stack Developer at **Ensuesoft** — building modern web applications with a strong focus on backend architecture, system design, and developer-grade code quality.
 
-### 🔹 Secure Authentication System
-- **Production-ready authentication** with **email/password login, phone number OTP verification, CAPTCHA verification, and role-based access control**.
+I care about the things that matter in production: **performance, reliability, and maintainability.**  
+Currently going deeper into **Java** and distributed systems while shipping real products.
 
-### 🔹 Wallet & Transactions System
-- Enables users to **add money, view balance, make purchases, and track transactions**.
+---
 
-### 🔹 Kafka & Node.js Backend Optimization
-- Designed a **high-performance backend** to efficiently handle bulk POST requests and data updates.
+## Stack
 
-## 🎯 Current Learning & Goals
-- **Advanced Kafka** for event-driven microservices
-- **Scalable Backend Architectures**
-- **Optimizing MERN applications for high traffic**
-- **Securing a MERN Stack Developer role**
-- **Contributing to open-source projects**
+**Frontend**
+```
+Next.js · React.js · Redux Toolkit · TypeScript · JavaScript · Vite · GSAP
+```
 
-## 📫 Connect With Me
-- **GitHub**: (https://github.com/HevenDev) 
-- **LinkedIn**: (https://www.linkedin.com/in/chandra-prakash-b92777302/)
-- **x.com (Twitter)**: (https://x.com/HevenDev)
-- **Portfolio**: *(Coming Soon!)*
+**Backend**
+```
+Node.js · Fastify · Express.js · BullMQ · Kafka · REST APIs
+```
 
-🚀 Let's connect and build something impactful together!
+**Database & ORM**
+```
+PostgreSQL · MongoDB · Drizzle ORM · Neon DB · Supabase · Redis
+```
+
+**Auth & Security**
+```
+OAuth 2.0 · JWT · bcrypt · Sessions & Cookies · OTP (MSG91) · CAPTCHA · RBAC
+```
+
+**Cloud & Storage**
+```
+AWS S3 · Cloudinary · Docker
+```
+
+**Deployment**
+```
+Vercel · Railway · Render · Netlify
+```
+
+**Currently Learning**
+```
+Java · Advanced Distributed Systems · Microservices Architecture
+```
+
+---
+
+## Projects
+
+### [Assignly](https://getassignly.vercel.app/) — Employee Task Management System
+> *Built for the taxation domain. Designed for teams that can't afford chaos.*
+
+A full-featured task and workflow management platform — giving managers real-time visibility into team workloads, pending tasks, deadlines, and bottlenecks. Built with a production-grade backend that handles queued jobs, caching, and concurrent operations without breaking a sweat.
+
+**What it solves:** Teams losing track of who owns what, deadlines slipping through gaps, and managers operating blind.
+
+**Stack:**
+- **Frontend:** Next.js · TypeScript
+- **Backend:** Fastify · BullMQ · Redis
+- **Database:** PostgreSQL · Drizzle ORM
+- **Infrastructure:** Docker
+
+> 🚀 Currently in beta — full public launch coming soon.
+
+---
+
+### [StackMindPro](https://stackmindpro.vercel.app/) — Tech Learning, Data-Driven by GPT
+> *Real-world examples. Actual depth. Not another tutorial site.*
+
+A developer learning platform that goes beyond surface-level explanations — covering real tech topics with structured, example-driven content powered by GPT. Built for developers who want to genuinely understand a concept, not just copy-paste it.
+
+**What it solves:** The gap between "I read about it" and "I actually get it."
+
+**Stack:**
+- **Frontend:** Next.js · TypeScript
+- **AI Layer:** OpenAI GPT API
+- **Database:** Neon DB · Supabase
+- **Storage:** Cloudinary · AWS S3
+
+---
+
+## In Progress
+
+| Project | What It Is | Status |
+|---|---|---|
+| **Personal Expense Tracker** | Open-source finance tracker — clean UI, smart categorization, personal insights | 🔨 Active |
+| **Ticket Booking System** | End-to-end booking flow with seat management, availability locking, and payment hooks | 🔨 Active |
+
+> Both open for contributions. Details coming soon.
+
+---
+
+## How I Think About Engineering
+
+- **Ship first, then scale** — working software beats perfect architecture that never ships
+- **Backend is the foundation** — a fast UI on a slow backend is still a slow product
+- **Read the error, understand the system** — debugging is just reasoning under pressure
+- **Learn by building** — every project teaches something a tutorial never will
+
+---
+
+## GitHub Stats
+
+![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HevenDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HevenDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HevenDev&theme=github-dark-blue&hide_border=true&background=0d1117)
+
+---
+
+*Building in public. Open to collaborations, interesting problems, and roles where the work actually matters.*
